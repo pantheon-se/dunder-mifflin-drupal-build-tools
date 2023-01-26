@@ -1,0 +1,14 @@
+uuid: a8e1e15d-e157-4eac-a72d-e6ed309820b9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - kyle.taylor@getpantheon.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
